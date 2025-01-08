@@ -13,7 +13,7 @@ SELECT
   COUNT(*) AS total_births
  FROM `basedosdados.br_ms_sinasc.microdados` 
   GROUP BY birth_year, sex
- LIMIT 100;
+ LIMIT 99;
 
 -- 2 - Calculate the proportion (percentage) of each sex relative to the total births per year
 
