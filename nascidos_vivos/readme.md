@@ -1,3 +1,26 @@
+## EN
+# Live Birth Analysis (SINASC)
+
+## Objective
+This project aims to explore the microdata from the Live Birth Information System (SINASC), available on the [Base dos Dados](https://basedosdados.org/) platform. 
+Using SQL, I will analyze the distribution of births by sex and race/color over the years, as well as answer other relevant questions.
+
+## Questions Answered
+1. What is the proportion of births by sex over the years?
+2. What is the distribution of births by race/color over the years?
+3. How do these distributions vary across states/regions in Brazil?
+4. Is there any relationship between sex, race/color, and type of delivery?
+5. Are there differences in average birth weight among the analyzed groups?
+
+## Project Structure
+- **sql/**: Contains the SQL queries used in the analysis.
+- **data/**: Examples of data or files exported from the queries.
+- **assets/**: Tables generated during the analysis.
+
+## Technologies Used
+- SQL (BigQuery)
+--------------------------------------------------------------------------------------------------------------------------------------
+## PT-BR
 # Análise de Nascidos Vivos (SINASC)
 
 ## Objetivo
