@@ -1,5 +1,5 @@
 ## EN
-Live Births Analysis (SINASC)
+# Live Births Analysis (SINASC)
 ## Objective
 This project aims to explore the microdata from the Live Births Information System (SINASC), available on the [Base dos Dados](https://basedosdados.org/) platform. 
 Using SQL, I will analyze the distribution of births by sex and race/color over the years, as well as answer other relevant questions.
@@ -20,7 +20,7 @@ Using SQL, I will analyze the distribution of births by sex and race/color over 
 - SQL (BigQuery)
 
 ## PT-BR
-Análise de Nascidos Vivos (SINASC)
+# Análise de Nascidos Vivos (SINASC)
 
 ## Objetivo
 Este projeto tem como objetivo explorar os microdados do Sistema de Informações sobre Nascidos Vivos (SINASC), disponíveis na plataforma [Base dos Dados] (https://basedosdados.org/). 
